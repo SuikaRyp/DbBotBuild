@@ -1,0 +1,32 @@
+{
+  "TIRZZ-5060F39F": {
+    "amount": 5,
+    "maxUses": 2,
+    "usedBy": [],
+    "createdAt": "2026-08-21T16:28:52.022Z"
+  },
+  "TIRZZ-939C62F7": {
+    "amount": 20,
+    "maxUses": 75,
+    "usedBy": [
+      7613900027
+    ],
+    "createdAt": "2026-08-21T23:53:27.044Z"
+  },
+  "TIRZZ-888EE06F": {
+    "amount": 20,
+    "maxUses": 25,
+    "usedBy": [
+      7613900027
+    ],
+    "createdAt": "2026-08-22T07:00:43.457Z"
+  },
+  "TIRZZ-A2138FDF": {
+    "amount": 20,
+    "maxUses": 100,
+    "usedBy": [
+      8659578611
+    ],
+    "createdAt": "2026-08-25T01:18:46.030Z"
+  }
+}
