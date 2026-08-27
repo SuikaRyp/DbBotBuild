@@ -2124,5 +2124,16 @@
     "status": "success",
     "created_at": "2026-08-26T23:44:13.792Z",
     "completed_at": "2026-08-26T23:52:42.696Z"
+  },
+  "mtb7c657qs893": {
+    "job_id": "mtb7c657qs893",
+    "release_id": 377635109,
+    "release_tag": "build-mtb7c657qs893",
+    "run_id": 33049916852,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-27T07:29:21.206Z"
   }
 }
