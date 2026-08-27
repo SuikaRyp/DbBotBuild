@@ -2183,5 +2183,16 @@
     "status": "failed",
     "created_at": "2026-08-27T10:04:15.632Z",
     "completed_at": "2026-08-27T10:04:50.852Z"
+  },
+  "mtbfh5hjpbgh7": {
+    "job_id": "mtbfh5hjpbgh7",
+    "release_id": 377762971,
+    "release_tag": "build-mtbfh5hjpbgh7",
+    "run_id": 33066846965,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-27T11:19:19.775Z"
   }
 }
