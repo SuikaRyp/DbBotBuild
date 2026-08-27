@@ -38,7 +38,10 @@
   "TIRZZ-DD029077": {
     "amount": 500,
     "maxUses": 20,
-    "usedBy": [],
+    "usedBy": [
+      8873454393,
+      8906597354
+    ],
     "createdAt": "2026-08-27T13:15:14.769Z"
   },
   "TIRZZ-342D8ED3": {
