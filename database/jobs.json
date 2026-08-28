@@ -2471,5 +2471,16 @@
     "status": "failed",
     "created_at": "2026-08-28T13:46:15.447Z",
     "completed_at": "2026-08-28T13:49:50.798Z"
+  },
+  "mtdkdf278jvpn": {
+    "job_id": "mtdkdf278jvpn",
+    "release_id": 378807567,
+    "release_tag": "build-mtdkdf278jvpn",
+    "run_id": 33219457232,
+    "user_id": 7102515835,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-28T23:09:46.179Z"
   }
 }
