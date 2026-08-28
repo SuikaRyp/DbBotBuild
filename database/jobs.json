@@ -2376,5 +2376,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-28T04:25:01.234Z"
+  },
+  "mtcgw2gjg1mz8": {
+    "job_id": "mtcgw2gjg1mz8",
+    "release_id": 378264546,
+    "release_tag": "build-mtcgw2gjg1mz8",
+    "run_id": 33142682472,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-28T04:44:32.508Z"
   }
 }
