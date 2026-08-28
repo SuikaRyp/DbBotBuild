@@ -1048,5 +1048,47 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-27T16:06:53.055Z"
+  },
+  {
+    "userId": 8709754813,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-08-28T11:29:30.295Z"
+  },
+  {
+    "userId": 8240272535,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-28T13:31:13.550Z"
+  },
+  {
+    "userId": 8240272535,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP) [debug]",
+    "at": "2026-08-28T13:39:59.617Z"
+  },
+  {
+    "userId": 7613900027,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-28T23:11:06.765Z"
+  },
+  {
+    "userId": 7613900027,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-28T23:25:12.785Z"
+  },
+  {
+    "userId": 7613900027,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-08-28T23:36:36.399Z"
   }
 ]
