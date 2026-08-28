@@ -482,8 +482,8 @@
     "first_name": "Rafzxx",
     "last_name": null,
     "joinedAt": "2026-08-26T12:42:40.567Z",
-    "lastSeenAt": "2026-08-28T12:19:33.923Z",
-    "startCount": 72
+    "lastSeenAt": "2026-08-28T12:39:34.799Z",
+    "startCount": 73
   },
   "8652439449": {
     "id": 8652439449,
@@ -529,5 +529,14 @@
     "joinedAt": "2026-08-27T15:57:28.869Z",
     "lastSeenAt": "2026-08-27T15:58:58.485Z",
     "startCount": 2
+  },
+  "8984418184": {
+    "id": 8984418184,
+    "username": "zzamoffical",
+    "first_name": "彡Zzam Offical",
+    "last_name": null,
+    "joinedAt": "2026-08-28T12:39:01.038Z",
+    "lastSeenAt": "2026-08-28T12:39:01.038Z",
+    "startCount": 1
   }
 }
