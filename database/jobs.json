@@ -2660,5 +2660,16 @@
     "status": "failed",
     "created_at": "2026-08-29T11:52:24.079Z",
     "completed_at": "2026-08-29T11:52:59.019Z"
+  },
+  "mteca11ks4l42": {
+    "job_id": "mteca11ks4l42",
+    "release_id": 378973533,
+    "release_tag": "build-mteca11ks4l42",
+    "run_id": 33251864336,
+    "user_id": 7102515835,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-29T12:10:58.743Z"
   }
 }
