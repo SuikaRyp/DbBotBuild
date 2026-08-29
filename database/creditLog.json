@@ -1111,5 +1111,12 @@
     "amount": 1,
     "reason": "Rename All",
     "at": "2026-08-29T00:36:36.444Z"
+  },
+  {
+    "userId": 7613900027,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-08-29T01:20:59.420Z"
   }
 ]
