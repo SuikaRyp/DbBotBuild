@@ -1104,5 +1104,12 @@
     "amount": 1,
     "reason": "Rename All",
     "at": "2026-08-29T00:35:14.465Z"
+  },
+  {
+    "userId": 7613900027,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename All",
+    "at": "2026-08-29T00:36:36.444Z"
   }
 ]
