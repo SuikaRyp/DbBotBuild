@@ -2730,5 +2730,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-08-29T12:51:39.861Z"
+  },
+  "mteg760oqnrg9": {
+    "job_id": "mteg760oqnrg9",
+    "release_id": 379002958,
+    "release_tag": "build-mteg760oqnrg9",
+    "run_id": 33256453606,
+    "user_id": 5982961261,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-29T14:00:42.363Z"
   }
 }
