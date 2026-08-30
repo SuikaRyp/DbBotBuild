@@ -367,5 +367,23 @@
     "joinedAt": "2026-08-30T14:56:00.809Z",
     "lastSeenAt": "2026-08-30T14:56:00.809Z",
     "startCount": 1
+  },
+  "8960847981": {
+    "id": 8960847981,
+    "username": "raaquuen",
+    "first_name": "quenisya",
+    "last_name": null,
+    "joinedAt": "2026-08-30T14:58:45.371Z",
+    "lastSeenAt": "2026-08-30T14:58:45.371Z",
+    "startCount": 1
+  },
+  "5985094539": {
+    "id": 5985094539,
+    "username": "Bitfinex_Exchange_Official",
+    "first_name": "KEEP MAKLOW",
+    "last_name": null,
+    "joinedAt": "2026-08-30T14:59:58.720Z",
+    "lastSeenAt": "2026-08-30T14:59:58.720Z",
+    "startCount": 1
   }
 }
