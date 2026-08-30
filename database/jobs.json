@@ -2860,5 +2860,16 @@
     "status": "failed",
     "created_at": "2026-08-30T06:18:43.601Z",
     "completed_at": "2026-08-30T06:19:07.402Z"
+  },
+  "mtfhx7u8jg369": {
+    "job_id": "mtfhx7u8jg369",
+    "release_id": 379211956,
+    "release_tag": "build-mtfhx7u8jg369",
+    "run_id": 33299615981,
+    "user_id": 8650254403,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-30T07:36:41.314Z"
   }
 }
