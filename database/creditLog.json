@@ -1202,5 +1202,12 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-08-30T05:16:02.560Z"
+  },
+  {
+    "userId": 7136401530,
+    "type": "earn",
+    "amount": 12,
+    "reason": "Redeem voucher",
+    "at": "2026-08-30T05:45:30.023Z"
   }
 ]
