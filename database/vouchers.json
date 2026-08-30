@@ -67,7 +67,9 @@
   "FAKZ-818BA89F": {
     "amount": 12,
     "maxUses": 1,
-    "usedBy": [],
+    "usedBy": [
+      7136401530
+    ],
     "createdAt": "2026-08-30T05:44:10.475Z"
   }
 }
