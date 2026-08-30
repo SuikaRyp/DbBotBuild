@@ -2917,7 +2917,8 @@
     "user_id": 5982961261,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-08-30T14:44:01.022Z"
+    "status": "success",
+    "created_at": "2026-08-30T14:44:01.022Z",
+    "completed_at": "2026-08-30T14:51:28.936Z"
   }
 }
