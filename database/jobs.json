@@ -2944,5 +2944,16 @@
     "status": "success",
     "created_at": "2026-08-30T15:03:19.157Z",
     "completed_at": "2026-08-30T15:09:17.968Z"
+  },
+  "mthi0i6b97xbc": {
+    "job_id": "mthi0i6b97xbc",
+    "release_id": 379926208,
+    "release_tag": "build-mthi0i6b97xbc",
+    "run_id": 33418504956,
+    "user_id": 8900189073,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-31T17:14:47.543Z"
   }
 }
