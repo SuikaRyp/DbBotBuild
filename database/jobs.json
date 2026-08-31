@@ -2956,5 +2956,16 @@
     "status": "failed",
     "created_at": "2026-08-31T17:14:47.543Z",
     "completed_at": "2026-08-31T17:15:33.520Z"
+  },
+  "mthj8g1rpyv8h": {
+    "job_id": "mthj8g1rpyv8h",
+    "release_id": 379945112,
+    "release_tag": "build-mthj8g1rpyv8h",
+    "run_id": 33421600656,
+    "user_id": 8900189073,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-31T17:48:57.639Z"
   }
 }
