@@ -10,5 +10,16 @@
     "status": "failed",
     "created_at": "2026-09-11T09:04:36.426Z",
     "completed_at": "2026-09-11T09:09:50.135Z"
+  },
+  "mtwr2smnh7i4n": {
+    "job_id": "mtwr2smnh7i4n",
+    "release_id": 386917566,
+    "release_tag": "build-mtwr2smnh7i4n",
+    "run_id": 34584088316,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-09-11T09:25:07.051Z"
   }
 }
