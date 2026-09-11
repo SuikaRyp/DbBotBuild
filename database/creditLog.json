@@ -12,5 +12,19 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-09-10T10:04:27.144Z"
+  },
+  {
+    "userId": 8306752132,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit gratis mingguan",
+    "at": "2026-09-11T09:04:09.698Z"
+  },
+  {
+    "userId": 8306752132,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-09-11T09:04:09.699Z"
   }
 ]
