@@ -57,5 +57,16 @@
     "status": "success",
     "created_at": "2026-09-19T13:41:32.340Z",
     "completed_at": "2026-09-19T13:48:31.203Z"
+  },
+  "muay20wlxuv0f": {
+    "job_id": "muay20wlxuv0f",
+    "release_id": 392773716,
+    "release_tag": "build-muay20wlxuv0f",
+    "run_id": 35574777960,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-09-21T07:49:23.394Z"
   }
 }
